@@ -139,7 +139,7 @@ function Section() {
 
             <p>1.Discover information from other people homes </p>
             <p>2.Save favourires to the collection of houses good </p>
-            <p>3.Follow influencers,creators and users that inspires </p>
+            <p>3.Follow influencers,creators and users inspires </p>
             <p>4.See your favourite home interior styled inreal home</p>
             <p>5.Shop what you see for the house -one clck away </p>
           </Child>

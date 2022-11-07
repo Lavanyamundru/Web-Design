@@ -66,7 +66,8 @@ function Footer() {
       {/* <div style={{ position: "fixed", top: 0 }}>
         {scrollY > 100
           ? "Scrolled more than 100px"
-          : "Still somewhere near the top!"}
+          : "Still somewhere near the top!
+          th"}
       </div> */}
       <Footer ref={ref}>
         <h5>esther's </h5>

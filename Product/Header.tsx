@@ -121,7 +121,8 @@ function Header() {
             }}
           />
           <Button>Create post</Button>
-        </div> */}
+        </div> 
+        <span></span>*/}
         <IconButton aria-label="cart">
           <StyledBadge badgeContent={5} color="secondary">
             <ShoppingCartIcon
